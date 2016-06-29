@@ -1,0 +1,126 @@
+*sigh* my schedule is based on this: http://www.ucdenver.edu/academics/colleges/engineering/programs/bioengineering/undergraduateprogram/documents/bsbioengineeringcurriculumguide.pdf
+but it's not correct, courses have changed: http://catalog.ucdenver.edu/preview_program.php?catoid=21&poid=5949&returnto=5457
+but that document doesn't contain the list of bioengineering electives,
+and doesn't talk about the two tracks (have they been removed?)
+
+See these files:
+  courses_all      - I went through all the pages in their course catalog to get this list
+  courses_selected - The ones that seemed most interesting
+
+Dependencies
+  General Physics 1 (To enter into Engineering)
+  Biomedical Design and Prototyping 1 (prereq for 2)
+  Biomedical Design and Prototyping 2 (prereq Bioengineering)
+
+Predicted Schedule
+  Semester 1 (15)
+    (3) BIOL 2051 - General Biology 1
+    (1) BIOL 2071 - General Biology Lab 1
+    (4) PHYS 2311 - General Physics 1
+    (1) PHYS 2321 - General Physics Lab 1
+    (3) IWKS 2300 - Computational Foundations of Innovation (http://www.inworks.org/iwks-2300)
+    (3) IWKS 3100 - 3D design and prototyping (http://www.inworks.org/iwks-3100)
+  Semester 2 (14)
+    (2) BIOE 1010 - Biomedical Design and Prototyping 1
+    (3) BIOL 2061 - General Biology 2
+    (1) BIOL 2081 - General Biology Lab 2
+    (4) PHYS 2331 - General Physics 2
+    (1) PHYS 2341 - General Physics Lab 2
+    (3) IWKS 3200 - Health Data Science (http://www.inworks.org/iwks-3200)
+
+  Semester 3 (14)
+    (3) IWKS 4500 - Biomedical Innovation and Design (http://www.inworks.org/iwks-4500)
+    (2) BIOE 1020 - Biomedical Design and Prototyping 2
+    (4) MATH 3195 - Linear Algebra and Differential Equations
+    (4) CHEM 3411 - Organic Chemistry 1
+    (1) CHEM 3418 - Organic Chemistry Lab 2
+  Semester 4 (15)
+    (3) BIOE 3010 - Bioinstrumentation
+    (3) BIOE 3020 - Introduction to Biomechanical Analysis
+    (3) BIOE 3050 - Cell & Molecular Bioengineering
+    (3) BIOE 3051 - Cell & Molecular Bioengineering Lab
+    (3) BIOE 4053 - Optics and Microscopy in Biomedical Research
+
+  Semester 5 (15)
+    (3) IWKS 4700 Online Instructional Design      (http://www.inworks.org/iwks-4700)
+    (3) BIOE 3030 - Introduction to Biomaterials
+    (3) BIOE 3040 - Physiology for Bioengineering
+    (3) BIOE 3070 - Bioengineering Lab I
+    (3) BIOE 3090 - Introduction to BioDesign
+  Semester 6 (12)
+    (3) BIOE 5010 - Cell and Molecular Biology for Bioengineers
+    (3) BIOE 3060 - Biostatistics, Measurement and Analysis
+    (3) BIOE 3071 - Bioengineering Lab II
+    (3) BIOE 4035 - Undergraduate BioDesign II
+
+  Semester 7 (10-13)
+    (3) BIOE 5011 - Systems Physiology for Bioengineers
+    (3) BIOE 4045 - BioDesign III
+    (1-4) IWKS 4970 Independent Study              (http://www.inworks.org/iwks-4970)
+    (3) BIOE 4073 - Neural Interfaces and Bionic Limbs
+
+inWorks Minor
+  Selected these from their catalog
+  http://www.inworks.org/minor-in-design-innovation/
+  Can any of these serve as dual credit?
+  2000 level course (1):
+    (3)   IWKS 2300 Computational Foundations of Innovation (http://www.inworks.org/iwks-2300)
+  3000 level courses (2):
+    (3)   IWKS 3100 3D design and prototyping (http://www.inworks.org/iwks-3100)
+    (3)   IWKS 3200 Health Data Science       (http://www.inworks.org/iwks-3200)
+  4000 level courses (2):
+    (3)   IWKS 4500 Biomedical Innovation and Design (http://www.inworks.org/iwks-4500)
+    (3)   IWKS 4700 Online Instructional Design      (http://www.inworks.org/iwks-4700)
+    (1-4) IWKS 4970 Independent Study                (http://www.inworks.org/iwks-4970)
+
+Requirements:
+  Engineering courses:
+    (4) MATH 3195 Linear Algebra and Differential Equations
+    (3) BIOL 2051 General Biology 1
+    (1) BIOL 2071 General Biology Lab 1
+    (3) BIOL 2061 General Biology 2
+    (1) BIOL 2081 General Biology Lab 2
+    (4) CHEM 3411 Organic Chemistry 1
+    (1) CHEM 3418 Organic Chemistry Lab 2
+    (4) PHYS 2311 General Physics 1
+    (1) PHYS 2321 General Physics Lab 1
+    (4) PHYS 2331 General Physics 2
+    (1) PHYS 2341 General Physics Lab 2
+
+  Pre Bioengineering courses:
+    (2) BIOE 1010 Biomedical Design and Prototyping 1
+    (2) BIOE 1020 Biomedical Design and Prototyping 2
+    (2) BIOE 2010 Computational Methods BIOE 1 (skip?)
+    (2) BIOE 2020 Computational Methods BIOE 2 (skip?)
+
+  Bioengineering core (all 36)
+    (3) BIOE 3010 Cell Biology for Engineers
+    (3) BIOE 3011 Cell Biology for Engineers Lab
+    (3) BIOE 3015 Physiology for Bioengineers
+    (3) BIOE 3020 Bioengineering Lab 1
+    (3) BIOE 3021 Bioengineering Lab 2
+    (3) BIOE 3025 Statistics for Bio Engineers
+    (3) BIOE 3030 Biomechanics
+    (3) BIOE 3035 Biomaterials 1
+    (3) BIOE 3040 Bioengineering Design 1
+    (3) BIOE 4010 Biomechanical Instrumentation
+    (3) BIOE 4015 Bioengineering Design 2
+    (3) BIOE 4020 Senior Design Project
+
+  12 hours from the Biomedical Devices and Biomechanics Track:
+    I'm not totally sure these qualify, there were several sources of incongruent info
+    ----
+    Probably Interesting:
+    (3) BIOE 5010 - Cell and Molecular Biology for Bioengineers
+    (3) BIOE 4073 - Neural Interfaces and Bionic Limbs
+    (3) BIOE 5011 - Systems Physiology for Bioengineers
+    (3) BIOE 4053 - Optics and Microscopy in Biomedical Research
+    ----
+    Probably Easy:
+    BIOE 4063 - 3D Modeling for Bioengineers
+    BIOE 4065 - Introduction to iOS Apps
+    BIOE 4066 - Advanced Topics in iOS Apps
+    BIOE 4064 - Advanced MatLab For Bioengineers And Life Scientists
+
+  8 additional courses
+    Ask to skip
