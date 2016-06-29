@@ -1,0 +1,44 @@
+This course url doesn't have a dash, all the others do:
+  Fix this one: http://www.inworks.org/iwks2100
+  It shouldbe:  http://www.inworks.org/iwks-2100
+
+"Get Involved" dropdown:
+  Denver Biolabs path is "/denver-biolabs-2"
+  There is a "/denver-biolabs"
+  There is not a "/denver-biolabs-1"
+  Probably the existing "/denver-biolabs" should be replaced by "/denver-biolabs-2"
+
+"Programs"
+  The paths and titles only match sporadically
+
+"About Us" dropdown:
+  Probably correct
+    "Our Culture" has the path "/our-culture"
+    "Our Work"    has the path "/our-work"
+  "Our Team" has the path "/our-team-1"
+    There is no "/our-team" or "/our-team-2"
+  "Our Mission" has the path "/what-we-do"
+    Should either update the dropdown or the url
+    Note that the page has main header of "what we do"
+
+Our Team
+  http://www.inworks.org/our-team-1/
+  Kelsie Faulds' path is "/kelsie-faulds-1", should probably be "/kelsie-faulds"
+  Louis Henrique Fae Barboza
+    On the team page, his name is spelled "Luis"
+    In the path and on his page, it's spelled "Louis"
+  Monika Wittig's path is "/wittig", should be "/monika-wittig"
+  Lelei Finau-Starkey should maybe have a dash in her last name in the path
+
+White paper is out of date
+  On this page you can download the white paper http://www.inworks.org/what-we-do/
+  But it's an old version
+    A footnote on the first page says
+    "A shorter and more accurate version is available from jkb@ucdenver.edu"
+    I emailed him asking for it, but he didn't reply
+
+Main page
+  http://www.inworks.org
+  "+   design thinking    +   computational thinking    +    disruptive innovation    +   radical interdisciplinarity  + "
+  Are the plusses adding them together, or delimiters? Either way, it seems like they shouldn't bookend the list
+

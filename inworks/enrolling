@@ -1,0 +1,151 @@
+APPLICATION FORM
+  http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5754c30acf80a16bff9ef73b/1465172747735/Inworks+Undergraduate+Minor+Program+Plan.pdf
+
+Fall of 2016 class schedule
+  http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5754c2307c65e4c24009c50a/1465172530025/IWKS+Fall+and+Spring+2016+Weekly+Class+Schedules.pdf
+
+Student Resources
+  Forms, policies, etc
+  http://www.inworks.org/for-students/
+
+Independent Study proposal form
+  http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5750b36c22482e8f9916cf4a/1464908111984/Inworks+Independant+Study+Proposal+Form.pdf
+
+Campuses:
+  http://www.inworks.org/take-a-course/
+  Downtown
+    10 min walk
+    Map:     https://www.google.com/maps/dir/828+17th+St,+Denver,+CO+80202/Inworks,+Lawrence+Court+and+UC+Denver+Buildings,+1250+14th+Street+%231300,+Denver,+CO+80202/@39.7466515,-104.9983146,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c78d0a3ba8da7:0xb7cb0c3adec36a82!2m2!1d-104.9926904!2d39.7470853!1m5!1m1!1s0x876c78c57b977475:0x1eea979428708150!2m2!1d-104.9997268!2d39.7469922!3e3
+    Courses: http://www.inworks.org/course-list/
+  Anschutz
+    1 hr train
+    Map:     https://www.google.com/maps/dir/828+17th+St,+Denver,+CO+80202/CU+Anschutz+Medical+Campus,+13001+East+17th+Place,+Aurora,+CO+80045/@39.7435772,-104.9498477,13z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c78d0a3ba8da7:0xb7cb0c3adec36a82!2m2!1d-104.9926904!2d39.7470853!1m5!1m1!1s0x876c634d04985013:0xb540696e93466730!2m2!1d-104.8377105!2d39.7451972!3e3
+    Courses: http://www.inworks.org/anschutz-course-list/
+
+3 tracks:
+  Undergraduate certificate
+    http://www.inworks.org/undergraduate-certificate
+    a basic understanding of design and innovation processes used to collaboratively address important human problems.
+  Minor:
+    a broad interdisciplinary perspective in design and innovation that integrates human-centered design thinking with collaborative problem solving.
+    http://www.inworks.org/minor-in-design-innovation
+  Graduate certificate
+    http://www.inworks.org/graduate-certificate
+    "provides an advanced introduction to the design and innovation processes used to collaboratively address important human problems."
+
+Selected Courses for an Inworks minor:
+  http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5751eb37e707ebb1d4c1728a/1464986424200/Inworks+Minor+Details.pdf
+  Can any of these serve as dual credit?
+
+  **REVISIT THIS SCHEDULE**
+    1. These were selected from http://www.inworks.org/minor-in-design-innovation/
+       Which only lists 20 courses, but CU's course catalog lists 33
+    2. There are actually 3 tracks you can go down, this schedule was based on the minor.
+
+  Required
+    (3)   IWKS 2100 Human-Centered Design, Innovation and Prototyping (http://www.inworks.org/iwks2100)
+  2000 level course (1):
+    (3)   IWKS 2300 Computational Foundations of Innovation (http://www.inworks.org/iwks-2300)
+  3000 level courses (2):
+    (3)   IWKS 3100 3D design and prototyping (http://www.inworks.org/iwks-3100)
+    (3)   IWKS 3200 Health Data Science       (http://www.inworks.org/iwks-3200)
+  4000 level courses (2):
+    (3)   IWKS 4500 Biomedical Innovation and Design (http://www.inworks.org/iwks-4500)
+    (3)   IWKS 4700 Online Instructional Design      (http://www.inworks.org/iwks-4700)
+    (1-4) IWKS 4970 Independent Study                (http://www.inworks.org/iwks-4970)
+  One of:
+    (4)   IWKS 4800: StartUp                (http://www.inworks.org/iwks-4800)
+    (4)   IWKS 4900: Undergraduate Capstone (http://www.inworks.org/iwks-4900)
+
+Course Catalog
+  Their course list (lists 13 courses)
+    http://www.inworks.org/anschutz-course-list/
+    IWKS 5100: Human-Centered Design, Innovation and Prototyping
+    IWKS 5120: Physical Computing and the Internet of Things
+    IWKS 5200: Health Data Science
+    IWKS 5300: NAND to Tetris Foundations of Computer Systems
+    IWKS 5500: Biomedical Innovation and Design
+    IWKS 5520: Designing for Healthful Human Longevity
+    IWKS 5550: Innovation Law and Policy
+    IWKS 5600: Innovating for the Developing World
+    IWKS 5650: Mobile App Development
+    IWKS 5800: StartUp - So You Want to be an Entrepreneur?
+    IWKS 5900: Graduate Capstone
+    IWKS 5930:: Special Topics
+    IWKS 5970:: Independent Study
+
+  Their progression through the minor (lists 20 courses)
+    http://www.inworks.org/minor-in-design-innovation/
+    ```
+    $ nokogiri -e 'puts $_.css("a.sqs-block-button-element--small").map { |a| "#{a.text.squeeze(" ")}".ljust(59) + " - http://www.inworks.org" + a["href"] }' http://www.inworks.org/minor-in-design-innovation
+    ```
+    IWKS 2100 Human Centered Design, Innovation and Prototyping - http://www.inworks.org/iwks2100
+    IWKS 2200: Theoretical Foundations of Innovation            - http://www.inworks.org/iwks-2200
+    IWKS 2300: Computational Foundations of Innovation          - http://www.inworks.org/iwks-2300
+    IWKS 3100: 3D Design and Prototyping                        - http://www.inworks.org/iwks-3100
+    IWKS 3200: Health Data Science                              - http://www.inworks.org/iwks-3200
+    IWKS 3300: NAND to Tetris                                   - http://www.inworks.org/iwks-3300
+    IWKS 3400: Game Design and Development I                    - http://www.inworks.org/iwks-3400
+    IWKS 3550: Innovation Law and Policy                        - http://www.inworks.org/iwks-3550
+    IWKS 3650: Mobile App Development                           - http://www.inworks.org/iwks-3650
+    IWKS 4100: Advanced Human-Centered Design                   - http://www.inworks.org/iwks-4100
+    IWKS 4120: Physical Computing and the Internet of Things    - http://www.inworks.org/iwks-4120
+    IWKS 4400: Game Design and Development II                   - http://www.inworks.org/iwks-4400
+    IWKS 4500: Biomedical Innovation and Design                 - http://www.inworks.org/iwks-4500
+    IWKS 4520: Designing for Healthful Human Longevity          - http://www.inworks.org/iwks-4520
+    IWKS 4600: Innovating for the Developing World              - http://www.inworks.org/iwks-4600
+    IWKS 4700: Online Instructional Design                      - http://www.inworks.org/iwks-4700
+    IWKS 4930: Special Topics                                   - http://www.inworks.org/iwks-4930
+    IWKS 4970: Independent Study                                - http://www.inworks.org/iwks-4970
+    IWKS 4800: StartUp: So You Want to be an Entrepreneur?      - http://www.inworks.org/iwks-4800
+    IWKS 4900: Undergraduate Capstone                           - http://www.inworks.org/iwks-4900
+
+  CU's list of Inworks courses (lists 33 courses):
+    http://catalog.ucdenver.edu/search_advanced.php?cur_cat_oid=21&search_database=Search&search_db=Search&cpage=1&ecpage=1&ppage=1&spage=1&tpage=1&location=33&filter%5Bkeyword%5D=iwks
+    IWKS 5500 - Molecular Biology for Computer Scientists & Engineers
+    IWKS 4100 - Advanced Human-Centered Design
+    IWKS 4500 - Molecular Biology for Computer Scientists & Engineers
+    IWKS 5100 - Advanced Human-Centered Design
+    IWKS 2100 - Human-Centered Design, Innovation and Prototyping
+    IWKS 4600 - ICTD and Global Health
+    IWKS 4700 - Designing Digital Pedagogy
+    IWKS 5400 - Game Design and Development II
+    IWKS 5620 - Design for Extreme Affordability
+    IWKS 5930 - Special Topics
+    IWKS 4400 - Game Design and Development II
+    IWKS 4120 - Physical Computing and Autonomous Artifacts
+    IWKS 2300 - Digital Creation of Virtual Artifacts
+    IWKS 4520 - Design for Healthful Human Longevity
+    IWKS 4620 - Design for Extreme Affordability
+    IWKS 5700 - Designing Digital Pedagogy
+    IWKS 5600 - ICTD and Global Health
+    IWKS 4680 - Case Studies in Design
+    IWKS 4800 - StartUp: So You Want to be an Entrepreneur?
+    IWKS 5120 - Physical Computing and Autonomous Artifacts
+    IWKS 5520 - Design for Healthful Human Longevity
+    IWKS 4900 - Undergraduate Capstone
+    IWKS 5970 - Independent Study
+    IWKS 4930 - Special Topics
+    IWKS 3400 - Game Design and Development I
+    IWKS 2200 - Technology and Society
+    IWKS 5800 - StartUp: So You Want to be an Entrepreneur?
+    IWKS 3100 - Introduction to 3D Design
+    IWKS 3200 - Data Science for Human-Centered Design
+    IWKS 3300 - NAND to Tetris
+    IWKS 3600 - Introduction to Development and Global Health
+    IWKS 5680 - Case Studies in Design
+    IWKS 4970 - Independent Study
+
+Course Posters
+  http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/563d3489e4b069d7f2229aae/1446851721679/IWKS_SPR_2016.pdf
+  Poster titles
+    "Human-centered design innovation" -- IDK what "human centered" means in this context
+    "Technology and society"
+    "3d Design Prototyping" 3D design prototyping (fundamentals of digitally fabricated forms)
+    "NAND to Tetris"
+    "Game Design and Development 1"
+    "Designing for Healthful Human Longevity"
+    "Designing Digital Pedagogy"
+    "Startup: So you want to be an entrepeneur?"
+    "Human-Centered Design Innovation"
+    "NAND to Tetris"

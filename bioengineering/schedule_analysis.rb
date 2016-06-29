@@ -1,3 +1,4 @@
+# Note: Just realized I'm missing 2 inworks courses at 3 and 4 hours
 semesters   = 0
 total_hours = 0
 DATA.to_a

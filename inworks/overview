@@ -1,0 +1,88 @@
+What:        A subset of CU that mostly acts autonomously
+             They offer a minor, certificates, and also allow the public to use their facility
+Why:         Uhhhhhh....  its unclear, I contemplate the possibilities below
+Website:     http://www.inworks.org/
+Twitter:     https://twitter.com/inworks_org
+Instagram:   https://www.instagram.com/inworks_org/
+Youtube:     https://www.youtube.com/channel/UCtb2y4VrNbHUwWLge48Bdbg
+Team:        http://www.inworks.org/about-us/
+             John K. Bennett
+             Heather Underwood
+             RJ Duran
+             Monika Wittig
+             Kate Goodman
+             Lelei Finau-Starkey
+             Jack Nelson
+Tours:       http://www.inworks.org/tour-inworks/
+             Thursday 3pm - 4pm
+Open Hours:  http://www.inworks.org/open-hours
+             Tuesday   1pm – 5pm
+             Wednesday 3pm – 8pm
+             Thursday  1pm – 5pm
+Equipment Reservation:
+             https://docs.google.com/spreadsheets/d/1fmKiPhZiE6EjUqoV5sttcPappK_10hcjk0io0eHHtk8/edit#gid=1926477317
+Pitch panel: http://www.inworks.org/pitch-panel
+Workshops:   http://www.inworks.org/take-a-workshop
+             None currently, but you can get on an email list
+             Not sure if I'm on it, they might have multiple lists, I def signed up for one
+
+4 Core principles (my words, they don't really use a noun)
+  "Design Thinking" and "Computational Thinking" for the problem solving process
+    "Design Thinking" is the high-level "why"
+    "Computational Thinking" is the low-level "how"
+    They overlap in the middle with "what", the "why" dictates the "what", and the "how" implements it.
+    These might manifest in other domains as BDD and TDD, or UX and UI.
+  "Disruptive Innovation" and "Radical Interdisciplinary" in the environment
+    "Disruptive Innovation" tells people to dream big, it's directing the set of problems students consider
+    "Radical Interdisciplinary" is about seeding participants with a broad set of information, ideas, and patterns
+
+Equipment:
+  Lulzbot Taz 3D printer (ABS plastic, plastic wood)
+  MarkForge 3D printer (carbon fiber, Kevlar, nylon, fiberglass, human-implantable plastic)
+  Tormach 4-axis CNC milling machine (all metals, plastics, composites)
+  Epilog 40"x28" 60-watt laser cutter
+  ShopBot 3-axis CNC router (wood and aluminum)
+  Sewing Machines
+  Bio lab:
+    (centrifuge, hot baths, pipettes, gloves, ...)
+  Electronics Lab:
+    "small but well-equipped electronics shop with
+    extensive Arduino, LilyPad and robotics support"
+  Woodworking Lab:
+    (Scroll Saw, Drill, ...)
+
+Origin of the name
+  There was a aeronautical endeavour (Lockheed Martin, IIRC) named "skunk works"
+  The people there were highly skilled, largely autonomous, and solved difficult problems in much the same
+  way that Inworks attempts to. The name "inWorks" is derived from "Skunk Works"
+  There's a better description on their site, but I don't have the internet right now, and read it several days ago.
+
+Contemplation of what Inworks' goal is:
+  They seem to have 2 competing purposes:
+
+  Serve university / Experiment with ideas that might save university education
+    I assume this is the purpose, as seen by John K. Bennett.
+    http://www.inworks.org/cu-students
+      "Our primary mission is to support the educational mission of the University of Colorado Denver | Anschutz Medical Campus"
+    http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5755b92637013ba14d908c5f/1465235751066/Inworks_White_Paper.pdf
+      "the present day academy’s defense of its nineteenth-century approach to education threatens to undermine its very foundations."
+      "Universities should be engines of disruptive innovation, not its unwitting target."
+      "Change is not easy for any institution; nowhere is this truer than within the modern academy."
+      "So how might we accomplish these objectives when we know that change is hard? One approach is to create a “skunkworks.”
+      "During World War II, Lockheed’s Advanced Development Projects Division created a small, carefully selected design team"
+      "This experiment was successful, and the term “skunkworks” has come to represent any project [...] charged with the creation of something radically new."
+      "If successful, the results of skunkworks projects are often adopted into the core values of the larger enterprise."
+      "since interdisciplinary interaction is not our natural way of doing things, we need to create a catalyst on campus that facilitates such interaction"
+      "What would an academic skunkworks look like?"
+      "an “Innovator Works” might be created to foster these ideas from within the academy"
+
+  Build a better world
+    I assume this is the purpose, as seen by Heather Underwood.
+    http://www.inworks.org/what-we-do/
+      "Our mission is to impart skills and habits of mind that allow people to collaboratively create impactful solutions to human problems. Inworks seeks to create innovative solutions to some of the world’s most challenging problems, while in the process creating life-long innovators."
+    https://www.youtube.com/watch?v=bjmubm3Wjyk
+      See the chart at 2:02, I have a screenshot of it in this directory, inspiration.png
+      Note that it is also hanging on their wall
+    http://static1.squarespace.com/static/5491d01ee4b0de7238258f98/t/5755b92637013ba14d908c5f/1465235751066/Inworks_White_Paper.pdf
+      "The primary purpose of the Inworks is to provide an intellectually diverse, richly creative and highly supportive environment in which faculty and students from across campus can collaboratively interact."
+      "In Creating Innovators, Wagner argues that a curriculum built around innovation needs to integrate play, passion and purpose. In play, we “explore, experiment and imagine new possibilities.” With passion, we are driven to persevere and to “explore, to learn something new, to understand something more deeply, to master something difficult.” Purpose is what drives us to “make a difference.” Wagner sees a natural progression from play to passion to purpose. Students first discover how to think creatively; then they find subject matter that draws them in; and finally, they look for a way to make a real difference. Helping students find and follow this path are key objectives of the Inworks."

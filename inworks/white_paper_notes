@@ -1,0 +1,234 @@
+File
+  Inworks_White_Paper.pdf
+
+Info
+  Written: November 2013
+  Author:  John K. Bennett
+  Shorter more accurate update
+    Footnote on first page says "A shorter and more accurate version is available from jkb@ucdenver.edu."
+    I requesting it but he never replied (https://mail.google.com/mail/u/0/#sent/15574d21f35a0b40)
+
+What:
+  "A new initiative of the University of Colorado Denver │ Anschutz Medical Campus for interdisciplinary innovation"
+  A subset of CU that mostly acts autonomously
+
+Why:
+  Experiment with ideas that might save university education
+  Note that this is not consistent throughout their rhetoric, eg outside the white paper
+
+  The problem:
+    The amount of information and the rate of change are exponential.
+    As a consequence, schools cannot teach a student a given skill, because the existing skills
+    quickly becoming obsolete, and the ones that will be relevant in the future may not yet exist.
+
+  Changes to university's ontology that will address the problem:
+    Universities must move towards teaching students how to become life-long learners,
+    skills that won't imply they already know how to do a thing, but that they can quickly acquire that skill,
+    and work effectively on a team that is attempting to accomplish it.
+
+  This is where Inworks comes in
+    "the present day academy’s defense of its nineteenth-century approach to education threatens to undermine its very foundations."
+    "Universities should be engines of disruptive innovation, not its unwitting target."
+    "Change is not easy for any institution; nowhere is this truer than within the modern academy."
+    "So how might we accomplish these objectives when we know that change is hard? One approach is to create a “skunkworks.”
+    "During World War II, Lockheed’s Advanced Development Projects Division created a small, carefully selected design team"
+    "This experiment was successful, and the term “skunkworks” has come to represent any project [...] charged with the creation of something radically new."
+    "If successful, the results of skunkworks projects are often adopted into the core values of the larger enterprise."
+    "since interdisciplinary interaction is not our natural way of doing things, we need to create a catalyst on campus that facilitates such interaction"
+    "What would an academic skunkworks look like?"
+    "an “Innovator Works” might be created to foster these ideas from within the academy"
+
+  The name
+    "During World War II, Lockheed’s Advanced Development Projects Division created a small,
+    carefully selected design team, gave this group a fair degree of autonomy from routine organizational procedures and bureaucracy,
+    and demanded rapid results. This experiment was successful, and the term “skunkworks” has come to represent any project developed by a small and
+    loosely structured group of people charged with the creation of something radically new. If successful,
+    the results of skunkworks projects are often adopted into the core values of the larger enterprise.
+    [...]
+    We therefore need a new academic unit that actively facilitates interdisciplinary collaborations among faculty and students from many disciplines,
+    creates innovators, promotes innovation and entrepreneurship, and encourages risk-taking and leadership.
+    For now, call this new academic unit the “Innovator Works” or “Inworks.”"
+
+How they intend to achieve innovation:
+  "Design Thinking" and "Computational Thinking" for the problem solving process
+    "Design Thinking" is the high-level "why"
+    "Computational Thinking" is the low-level "how"
+    They overlap in the middle with "what", the "why" dictates the "what", and the "how" implements it.
+    These might manifest in other domains as BDD and TDD, or UX and UI.
+  "Disruptive Innovation" and "Radical Interdisciplinary" in the environment
+    "Disruptive Innovation" tells people to dream big, it's directing the set of problems students consider
+    "Radical Interdisciplinary" is about seeding participants with a broad set of information, ideas, and patterns
+
+Design Thinking (who are we doing this for, and why?)
+  "A human centered process for creatively developing solutions to complex problems"
+  "Design thinking is a scaffold for innovation that integrates empathy, creativity, and practicality to match human need with feasibility"
+  Are they missing "competence"?
+  Stanford's five steps:
+    Empathize - Understand, at a deep level, who you are designing for
+    Define    - Translate the above to an actionable problem statement
+    Ideate    - Explore a wide range of potential solutions
+    Prototype - Get something out there to gain feedback about it (fail fast/lean/agile/etc)
+    Test      - The process thatinforms the refinement of prospective solutions
+
+Computational Thinking (How can we address the problem?)
+  "learning how to select, evaluate, integrate and synthesize information into purposeful knowledge"
+    this is b/c there is such a large amount of information available, its less about how to get it at this point, and more about what to do with it.
+    the above quote sounds like ideation from Design Thinking, but the quote below sounds like prototyping,
+    or perhaps, whatever comes after prototyping
+  "the ability to create human artifacts of every kind
+    structures, art, music, medicine, aircraft, entertainment, entire worlds of imagination
+    using computing as the instrument of creation."
+  They also included data science in this category
+
+Disruptive Innovation (Tackle big problems)
+  When market leaders are displaced by newcomers due to their innovations
+  Alan Kay says a lot of stuff like this, eg https://www.youtube.com/watch?v=NdSD07U5uBs
+
+Radical Interdisciplinary
+  An intentional and thoughtful approach to interdisciplinary interaction
+  focused on empowering all members to participate as collaborators working towards a common goal / direction
+  but with autonomy
+
+  "a shared vocabulary of collaboration that honors different expertise;
+  we need to understand and be intentional about team dynamics;
+  we need to avoid needless hierarchy, and recognize that innovative leadership is not about creating goals and incentives,
+  rather it is a process of giving direction that promotes creative problem solving.
+  Finally, we need to consider carefully how physical space contributes to collaborative problem solving,
+  and provide a collaborative environment that positively biases the design process:
+  open floor plans, round tables, shared space for interaction and prototyping, etc."
+
+"The challenge we face is how to constructively incorporate new ways of thinking into our teaching, scholarship and practice."
+  Interesting. True, for sure, but the hurdle I see is the structure of university.
+  I can't see a way for Inworks and univerity to coexist, their paradigms are incongruent.
+  Eg:
+    "it is far easier to continue to make incremental changes to old models. However,
+    it is becoming increasingly clear that we cannot increment our way to excellence."
+
+"How can a university create an environment that facilitates and promotes far-reaching intellectual diversity?"
+  1. faculty and students need to be able to readily interact across traditional disciplinary boundaries
+  2. faculty need to be able to engage in interdisciplinary research without endangering their careers
+  3. we need to create a catalyst on campus that facilitates such interaction by providing space, facilities, and programs that foster creative innovation
+  4. we need administrative commitment
+
+Implementation
+  Allow big leaps:
+    From Tim Brown, President of Ideo:
+      "Experimentalism - Significant innovations don’t come from incremental tweaks.
+      Design thinkers pose questions and explore constraints in creative ways
+      that proceed in entirely new directions."
+    A suggestion:
+      Find the right fit for the domain, meaning it's true sometimes,
+      but the advantage of an incremental tweak is it lets you explore a single variable,
+      while the experimental approach described here does have the same risks the paper identified earlier:
+      "The path from research result to demonstrated benefit can be long,
+      and the links tenuous, especially to a non-specialist."
+
+  Intellectual capacities conducive to innovation:
+    associating, questioning, observing, experimenting and networking
+
+  Essential qualities of a successful innovator (from Creating Innovators):
+    * curiosity - asking good questions, attempting to understand more deeply
+    * collaboration - listening and learning from others, esp when they have different perspectives
+    * associative / integrative thinking
+    * bias towards action / experimentation
+
+  key objectives of the Inworks:
+    Helping students find and follow this path:
+    1) play    - drives us to to explore and imagine
+    2) passion - drives us to perseverence and deeper understanding
+    2) purpose - drivees us to make a difference
+
+  Gamification
+    "A “merit badge” reward system that is unlinked from credit or revenue,
+    i.e., focused solely on the acquisition of purposeful knowledge,
+    may facilitate engagement by a global audience."
+
+    Gamification is more sophisticated than that.
+    Maybe check out Skinner Boxes, or the book "Hooked"
+    and be sure to look into successful and unsuccessful implementations.
+    I'd argue that Khan Academy's attempt is super annoying; I have to remind myself that I'm here to learn and choose to ignore it.
+
+    As far as rewarded behaviour
+      the acquisition of purposeful knowledge is a good choice, though probably difficult to measure.
+      One that I'm utterly fascinated by is compression: http://people.idsia.ch/~juergen/driven2009.pdf
+
+    Kickstarter courses:
+      "if enough students sign up who are willing to cover course costs,
+      the course should be offered. For example, if a course costs $6000 to offer,
+      and either 10 students are willing to pay $600, or 600 students are willing to pay $10,
+      the course should be offered."
+
+      Omg, this is a beautiful idea! Please do this!
+
+  Educational tactics
+    “see one – do one – teach one”
+    the Inworks’ educational approach should expect and demand excellence
+    “treat people as if they were what they ought to be and you help them become what they are capable of being.” -- Goethe
+
+  Interacting with industry
+    Managed by a "Director of External Relations", a DER
+
+  Friendly to experimentation and failure
+    "We have to be willing to try ideas that might fail because failure is an essential element of innovation18, we need to evaluate everything that we do, to learn from mistakes, and try again; in short, to “fail fast.” While we should be intentional about every aspect of what we do, we must also engage in significant experimentation."
+
+"The primary purpose of the Inworks is to provide an intellectually diverse, richly creative and highly supportive environment in which faculty and students from across campus can collaboratively interact."
+  This is at the bottom of page 14, I'd advocate moving it to the top of page 1,
+  This seems at ods with the "why" I describe above,
+  Reading this far, I'd concluded that the primary purpose of inWorks was to save university from its looming obsolescence.
+  Perhaps this is its primary mechanism? I don't think it stands on its own.
+
+"These layouts communicate that people are supposed to work alone, and that personal status can be measured by office size and location."
+  Love this criticism!
+
+"students will choose to enroll primarily because they want to engage with the Inworks."
+  true :P
+
+Questions:
+  I should probably preface these with an acknowledgement that my sentiment regarding university is "hostile".
+
+  * Why do this within the university?
+    I'm confused about who you are designing for (Design Thinking's "empathy")
+    * If you are designing for university, as might be supported by this statement:
+      "Universities should be engines of disruptive innovation, not its unwitting target"
+      Then... why? Why save university? Why not dismantle and replace them?
+    * If you are designing for students / the future of education, then why do it from within university?
+      My experience has been that the longer something has existed, the harder it is to change.
+      University has so much momentum that we call it an "institution", you even equate it to "enterprise" in the paper (in my domain, that's a pejorative term).
+      Won't you experience the pull of that momentum, toward tradition, stabilitiy, told to "stop rocking the boat" or "that's now how things work?",
+      Will university facilitate innovation, disruption, unprecedented vision / rough-around-the-edges prototypes to achieve a potential that university itself does not strive towards?
+      Why prototype within that environment? (I'm interpreting inWorks as your attempt to prototype a solution to education within the environment of rapid increase of information and constant change)
+    * If you are designing for the the future (eg "we will need all these people who can deal with complex systems, so I'll try to get a supply of them in time")
+      then is there a purpose / goal you have which causes you to try innovating from within university rather than apart from it?
+
+  * How will you test inWorks? How will you revisit / refine?  How do you identify whether you are closer to / farther from your goals?
+
+  * Lets say you are successful? inWorks is a smashing success. "If successful, the results of skunkworks projects are often adopted into the core values of the larger enterprise."
+    * How will you convince university of its truth?
+    * If you do convince the university, what then? How will you disemmanate its success to the institution at large?
+      How will you overcome that "The way the academy structures knowledge perpetuates disciplinary silos and helps create profound social barriers among both faculty and students"
+      Phase inWorks in and the older systems out?
+      Attempt to get the instructors of other schools to understand your vision and bring these ideas to their colleges?
+    * What does university look like, having embraced "radical interdisciplinary"?
+      Will there still a college of philosophy, history, criminal justice, computer science?
+      Will these disciplines be available for study by all, but in some manner that integrates them with a larger set of knowledge / skills?
+      How would that work? If I want to enter Bioenginerring, I have to get accepted by CU, complete prerequesites,
+      get accepted by the Engineering department, complete prerequesites, get accepted by the Bioenginering department,
+      complete a core curriculum, and then choose a specialization track. With my existing degree, I'm still looking at 3.5 years and +$80K
+      I'd say that's pretty pretty deeply entrenched.
+
+      I'm excited about inWorks, because on day 1, despite my woeful incompetence,
+      I got to clone genes, I got to show up, try to figure out wtf was happening, and dive into a discipline I knew nothing about.
+      I wouldn't have gotten to do PCR until the 3rd year with the bioengineering program.
+      Can you cange the fabric of university? Will the legion of legacies let you?
+
+      IDK, you've defined an actionable problem statement (though, again its not clear to me who you are designing for),
+      I assume you've ideated, given that inWorks seems to be a prototype, so I guess it depends how you test and how you measure.
+      Perhaps there is no specific goal, movement in a direction you identify as "progress" may be sufficient for you,
+      it would be congruent with "[developing] solutions when the problems themselves are not well defined".
+    * I suppose you could look at this set of questions and consider it a lack of
+      "Optimism - They assume that no matter how challenging the constraints of a given problem,
+      at least one potential solution is better than the existing alternatives."
+      but I suspect I have optimism, and we differ in that I don't empathize with university,
+      who would I design for, then? I don't know. Perhaps me. Perhaps learners. Perhaps what I wish learners were.
+  * Is it Inworks or inWorks?
+    I saw the paper addressed this, but pretty sure I've seen the alternative, too.
