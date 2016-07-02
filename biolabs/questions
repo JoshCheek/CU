@@ -1,0 +1,44 @@
+Biology
+  If you had an amino acid drink,
+    would this allow you to stop consuming plants and animals?
+    If so, why doesn't this exist? (If that's what Soylent is, they don't talk about it that way)
+  What are vitamins? They don't seem to be amino acids, so what are they and why do we have / need them?
+  Why are amino acids special, and not some other structure?
+  Is it possible to have another structure with the same properties as amino acids, such that we could make living creatures out of that structure instead? (eg in the same way that you can represent a bit with different materials and then build things like computers in minecraft)
+  Why do amino acids release an H2O when forming a peptide, rather than an H2?
+    https://en.wikipedia.org/wiki/Amino_acid#/media/File:Peptidformationball.svg
+    Does that sometimes happen, we just don't call it a popypeptide?
+  What the heck do 5' and 3' mean?!
+  Hypothesis: Nucleotides (GCAT) are made out of H, C, N, O, and S
+    This is b/c I think they said that is what comprises amino acids in the amino acid thing
+    If that is true then I further hypothesize:
+      The reasons AT pair and GC pair is a consequence of their chemical makeup
+        (eg A could have +2 charge and T could have -2, and C could have +1 charge and G could have -1 charge,
+        thus they would only bond with each other... but really I mean anything that functions this way)
+      Ihe reason we have only 4 types of nucleotides are because of the ways that these elements can be combined
+        possibly further limited by the ways that the combinations can be paired
+
+Chemistry
+  Why don't noble gasses share one of their electrons with others?
+    (Eg HeH) My guess is that it's less stable to share the electron.
+    I assume that sharing the electron makes two elements more stable,
+    (eg O=O) so they do it, but this leads to uneven distribution of electron clouds,
+    so they will be open to Van der Waals bonding, where noble gasses wouldn't?
+  Wtf is up with Phosphate? I can't figure out how it can come to be
+    https://en.wikipedia.org/wiki/Phosphate
+    The negative sign on the Oxygens implies they received an electron,
+    so the Phosphate goes from 5 in the valence shell to 2, and the oxygens take a negative charge
+    Then it must covalent bond them so they have 8 in the valence shell, giving it 4
+    Then it double covalent bonds the top oxygen to get 6.
+    So its valence shell is not full?
+    I can't see how this molecule comes to be.
+  Why don't atoms gain/lose electrons to get the desired number in their valence shell?
+    eg NaCl could bond and then be separated, leaving the electron with the Cl
+    my hypothesis is that it's a lower energy state to have balanced charge than a balanced valence shell
+  Why are the elements charged for hydrogen bonding?
+    eg with water, the oxygen shares its electron with the hydrogen as well (covalent bond)
+    so I'd expect them to all be negative
+    but we see the oxygen goes negative and the hydrogens go positive
+    is it that the oxygen's valence shell is larger so the shared electrons spend more time orbiting the oxygen?
+    Additionally, this would imply that there is a strength of charge which is not expressed,
+    otherwise, we'd expect the oxygen to have -2 charge instead of -1 charge (b/c the 2 hydrogens each get a +1 charge)

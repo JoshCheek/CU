@@ -1,0 +1,24 @@
+
+Amino Acids are Like a Molecular Array
+--------------------------------------
+
+Amino acids are used for these things because of their molecular structure.
+You can think of them as a left hand, right hand, and data (I made that up, no one else uses it, AFAIK).
+These are joined together by a carbon atom, it looks something like this:
+
+```
+left-hand :: carbon-atom :: right-hand
+                 ::
+                data
+```
+
+Due to its chemical structure, each amino acid's left hand can hold another's right hand,
+like a red-rover line. Since the amino acid kind of looks like the capital letter "T",
+we could imagine a chain of them might look like "TTTTTTT". This would be our polypeptide strand,
+the thing that folds up into proteins.
+
+The hands of all amino acids are identical -- they're all the same chemical structure.
+The data varies across amino acids, and the molecular structure of the data is what
+defines which amino acid it is, and what its properties are.
+You could also think of it like leaves on a vine,
+or elements in an array (not like a linked list, though).

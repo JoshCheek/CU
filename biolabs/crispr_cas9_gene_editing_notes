@@ -1,0 +1,139 @@
+Meetup page
+  http://www.meetup.com/denverbiolabs/events/230692254/
+
+Presenters
+  Megan Basila
+  Eldon Chou
+  From the company "dharmacon", they sponsors Denver BioLabs iGEM team <3
+  Dharmacon, part of GE HealthcareWebsiteDirections
+  http://dharmacon.gelifesciences.com/
+
+Terms to lookup:
+  siRNA: maybe "synthesized RNA"
+  miRNA:
+  shRNA:
+  "specificity-enhanced siRNA:
+  cDNA:
+  ORF:
+  GEHC Dharmacon Gene Modulation
+    Provides tools (I think for scientists to study shit)
+  crRNA: CRISPR RNA
+  crtrRNA: CRISPR tracer hybrid RNA
+  Pyogenes:
+  anneal: maybe the opposite of helicase?
+  Functional RNA knockout:
+  PSMD8
+  phenotypic assay
+  GFP intensity
+  INDEL: a molecular biology term for the insertion or the deletion of bases in the DNA of an organism
+  Transfect: infect (a cell) with free nucleic acid.
+             introduce (genetic material) by transfection.
+  Stepwise unwinding
+  NHEJ: Non Homologous End joining
+  HDR:  Homology directed repair
+  Homology: the state of having the same or similar relation, relative position, or structure: many proteins show homology across their whole length | a region of h
+  RFLP: Restriction Fragment Length Polymorphism
+  Restriction enzyme: helicase?
+  PAM: not sure, but they set it to the nucleotides "GGG"
+  in vivo:
+  GFP: Green Flourescent Protein
+  acetylation:
+
+  "Precise gene editing using HDR"
+  "The longer your homology arm the better" (they settled on 1000, apparently this thing goes on the 3' end)
+  tons of others I just missed, this fella goes quuuuuick >.<
+  There is apparetnly a "recycle bin" for proteins, to reuse their amino acids.
+    Can't tell if this is a specific noun, or a general description for the idea that the amino acids will make their way back into the supply
+
+------
+
+What is it?
+  A mechanism of adaptive immunity in bacteria and "archaea"
+
+------
+
+Use in humans
+  Initial papers:
+  "A programmable dual rna guided dna endonuclease in adaptive bacterial immunity"
+  "RNA guided human genome engineering via cas9"
+  "multiple... " dude goes fkn fast
+
+Verification of edit:
+  Cleave it at the site of your insertion, if it doesn't cleave, the insertion wasn't there
+  Sanger sequencing
+  ?? blot
+  ?? assay
+
+Something about constructing guie RNA
+  S pyogenies (not sure what this is, but it keeps popping up)
+  any base and then 2 "G"s in a row
+
+Some result they found
+  "Creation of indels does not always result in functional knockout"
+  Functional gene distribution depends on gene position & sequence
+  Factors other than locaation affect the functionality of guide RNA
+  important design considerations for guide RNA:
+    cut site location
+    sequence around cut site
+    sequence within/around PAM
+    GC content
+    strand preference
+
+Specificity:
+  goal is to identify possible off-targets
+  "The specificity tool is available online"
+
+They have a paper that might go slower, but I didn't get it down before he switched the slide
+  journal of biotechnology
+  systematic analytics of CRISPR cas9...
+
+-----
+
+Applications
+
+Interesting Publications
+    CRISPR-Cas9 mediated efficient PD-1 disruption on human primary T cells from cancer patients
+      http://www.nature.com/articles/srep20070
+      Knock out the PD-1 gene
+    Elimination of HIV-1 Genomes from Human T-lymphoid Cells by CRISPR/Cas9 Gene Editing
+      http://www.nature.com/articles/srep22555
+      They are trying to eliminate the entire HIV genome
+    Naiive induced pluripotent stem cells generated from beta-thalassemia fibroblasts allow efficient gene correction with CRISPR/Cas9
+      Used it to correct a gene that causes some disease
+    In vivo gene editing in dystrophic mouse muscle and muscle stem cells
+      apparently different animals model different facets of human physiology,
+      so depending on what you're trying to accomplish, you might test it on some animal (here, a mouse)
+    Microinjection of zebrafish embryos using Dharmacon Edit-R Cas9 Nuclease mRNA, Synthetic crRNA and tracrRNA for genome engineering
+      This one used zebrafish
+    "Systematic analysis of crispr-cas9 mismatch tolerance reveals low levels of off-target activity"
+      allows for systematic analysis of rules for off-targeting
+HDR
+  Tagging
+  Insert a ?(flourescent reporter)? into a protein so you can track it around the cell
+  Flourescent reporters
+    TurboGFP green
+    ACTB     red
+    merge    blue
+
+"There's lots of applications for deactivated Cas9 / dead Cas9"
+  It can't cleave the nucleotide, but it can recruit transcription factors which allow it to turn things up / down rather than just on / off
+
+Cpf1 is a different type of Cas protein
+  it uses a single crispr molecule, doesn't require a tracer
+  They don't work in mamals (b/c eukaryote?)
+
+"30-40% editing success is good"
+
+-----
+
+Musings
+  Could you create a protein with more featueres? eg evolution of the text editor (maybe packaging replacement DNA along with it?)
+  Apparently Cas9 doesn't always work better.
+    Presumbly packaging all of the behaviour together causes it to be too large.
+    Performing the different operations with different components may work better (SOA! :P)
+
+Questions
+  Why don't these insertions affect the functionality of the protein?
+    Apparently there's a lot of places you could insert an amino acid without affecting the behaviour of the protein
+    Sort of like noops (this assumes you insert a multiple of 3 nucleotides so you don't offset the nucleotides and affect future codons)
+  Seriously, wtf is 3' and 5'?
