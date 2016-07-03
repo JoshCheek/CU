@@ -212,11 +212,11 @@ As such, CRISPR is a very unfortunate choice, but we're probably stuck with it,
 so lets understand it. We'll work backwards from the end, as the earlier letters
 require you to understand the later ones.
 
-* Repeats:
+* **Repeats:**
   Imagine if you didn't know English, and you looked at the names.
   It would all be meaningless to you, but you would notice that the delimiter: ", "
   You might say to friend "I found a comma-space repeated several times in the text".
-* Palindromic:
+* **Palindromic:**
   Because of my choice to pair the comma with the space, the sequence ", " in the top sequence
   is matched up with the sequence " ," in the bottom sequence. If you started at the top-left letter
   and went right, you'd read "Bob, Carla, Joan". But if you didn't have a "top-left" orientation,
@@ -226,11 +226,11 @@ require you to understand the later ones.
   Notice that while the data got reversed, the delimiter did not.
   Also remember that from either side, you can infer the other, if you see "c", you know its pair is "C", and vice versa.
   So its not very important which orientation you read, and the sequence in the delimiter will be consistent in both cases.
-* Short:
+* **Short:**
   Notice that our delimiter is only 2 characters long, whereas the names are 3 to 5 characters long.
   In real CRISPR DNA, they vary between 24 and 48 nucleotides long, short enough to easily identify,
   long enough to probably not show up in the DNA they are delimiting.
-* Regularly Interspersed:
+* **Regularly Interspersed:**
   If you focused on the comma-space delimiter instead of the names, you might wonder how often it repeats itself.
   Since most names are about the same size, you could say that they occur pretty regularly.
   Here, they repeat every 3 (Bob), 5 (Carla), and 4 (Joan) characters.
@@ -238,7 +238,7 @@ require you to understand the later ones.
   When they talk about "spacer DNA", they're talking about the nucleotides between the repeated delimiter nucleotides.
   Of course, that DNA isn't a spacer for the repeated portion, it's the data being delimited!
   **That spacer DNA is the whole purpose of the structure!**
-* Clusters:
+* **Clusters:**
   Here, our delimiter has 2 characters. In real DNA, it's 24-48. So you could say these characters are clustered together.
   The reason we need a cluster is because there are only 4 possible nucleotides, so if we used just 1 nucleotide, then
   none of the DNA we were storing could have that nucleotide since it would look like a delimiter. We could add a second
