@@ -1,20 +1,19 @@
 A Model for Biology
 ===================
 
-High Level Biological Ontology
--------------------------------
+The Central Dogma of Biology
+----------------------------
 
 Proteins are comprised of folded up strands of amino acids,
 which are translated from RNA, which are transcribed from DNA.
 
-Protein <- amino acid strand <- RNA <- DNA
+Protein <- RNA <- DNA
 
 
 Proteins are the Actors
 -----------------------
 
-Proteins are molecular actors (I'll assume you know what a molecule is,
-it shouldn't be too difficult to figure out, if not).
+Proteins are [molecular](https://www.youtube.com/watch?v=AfXxZwNLvPA) actors (doers).
 If something is done at the scale of molecules, it's a protein that does it.
 If someone uses a verb at this scale, you can assume there is a protein performing the verb.
 
@@ -38,8 +37,6 @@ Our polypeptide strand (chained together amino acids)
 will wind up folding due to the chemical forces,
 and will eventually find a state where the forces are balanced.
 
-I wonder if it then settles over time, the way salt in a shaker does.
-
 The structure that a given polypeptide strand will fold into is not generally known,
 humans are good enough pattern matchers to figure it out a lot of the time,
 but algorithms are not generally good at this yet.
@@ -59,8 +56,8 @@ This process of appending an amino acid is called "emitting",
 so Ribosome "emits" an amino acid.
 
 Where does Ribosome get the materials for the amino acid?
-Well, as it traverses the RNA, other proteins will bring it the
-molecules that it needs to make the amino acids.
+Well, as it traverses the RNA, proteins called tRNA bring
+it the molecules that it needs to make the amino acids.
 
 
 RNA is a Sequence of Nucleotides
