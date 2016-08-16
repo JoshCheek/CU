@@ -15,6 +15,7 @@ So, how do we know any of the shit we think we know?  My intent (and I'll probab
 get very far) is to try to answer that question and document the answers here. With any
 luck I'll get to perform these experiments myself at some point.
 
+
 Things I'd like to be able to answer
 ------------------------------------
 
@@ -24,6 +25,7 @@ Things I'd like to be able to answer
 * Are there other such systems?
 * Infer: whole numbers, 0, negative numbers, Real numbers, irrational numbers (pythagorean's theorem & sqrt 2)
 * Math tactics: equality, functions, substitution
+* Annotate and name the notations
 * Infer addition, subtraction, multiplication, division, exponents, logs, matrices, imaginary numbers, quaternions
 * Various mechanical properties of each of these
 * Prove binomial theorem
@@ -72,11 +74,20 @@ Things I'd like to be able to answer
 * Can we infer all cosmic phenomena by considering all combinations of elementary particles?
 * Wtf are strings in string theory, and why do they matter?
 * Pilot wave theory
-* What is time?
+* What is time? Why does it seem to have a direction where other dimensions don't?
 * Why determinism makes the most sense (to me)
+* Why is energy conserved? How do we know?
+* Why time is an illusion
+* Why none of this is real
+* Where do plank's constants come from? How do we know they are what they are?
+* Is all physical material discrete?
+* How quantum computers work, and the implications of that (https://gist.github.com/JoshCheek/63c649b1e8837231ecbd2515a9c754ce)
+* Wtf is electromagnetism? Is there a particle? Does it change across particles?
+
 
 ### Chemistry
 
+* What are atoms, molecules, elements, compounds, etc
 * The existence of atoms
 * Atoms are made up of protons and neutrons in the nucleus of the atom, and electrons orbiting the nucleus
   * I think this is the one where we shot electrons through a sheet of gold, and sometimes they would hit the nucleus and bounce off at an angle
@@ -92,13 +103,17 @@ Things I'd like to be able to answer
   Or, hold the electron in place, and back away from it. Initially it's -1, at some point the distance is sufficient to be 0, is the transition instant, or does it drop off?
   At the very least, it could simulate a gradient if taken as an average over time.
 * Chemical bonding
+  * Why do chemicals bond?
   * Covalent - Sharing an electron in the valence shell
   * Ionic - lending/borrowing an electron in the valence shell, which leaves the atom charged, and then being held together by the resulting charge
   * Hydrogen - ??
   * Van der Waal - uneven distribution of electron orbit leaves a side of the atom more negative and another side more positive, these slightly negative and positive sides, then attract
 * The number of electrons in the valence shell (2, 8, 8, ...) I think this is determined by 3-dimensional harmony, which I don't fully get, but I do understand harmony of a string,
   and can conceptually extrapolate that, even though I can't do the math to arrive at the answers.
+* Why is it difficult to change the number of protons in the nucleus?
+* Why do the particles in the nucleus stick together? If protons are all positive, shouldn't they repel each other, disbursing the nucleus?
 * Nuclear fission / fusion
+* Why do certain elements have the properties they do? Colour, heat transfer, malleability, strength, etc (what are the properties they can have, is there a finite set? how do we know its finite?)
 
 
 ### Biology
@@ -130,11 +145,13 @@ Things I'd like to be able to answer
   * Could we create it from other molecules (eg what is it about amino acids that are so important, do other molecules have that quality? could we create a similar system using the other set of molecules?)
   * How DNA encodes so much information
   * How we can get so much diversity from the system we have
+* Why fluffy things like love are nonsense
 
 
 ### Neuroscience
 
-* How neural networks work
+* How neural networks work (what is a neuron, how do they encode complex systems?)
+* What are neuro transmitters?
 * How our brains implement this
 * The breakdown of the brain (names / locations / functions)
 * How the brain develops
@@ -144,3 +161,31 @@ Things I'd like to be able to answer
 * Where do we get: consciousness, curiousity, novelty, pleasure
 * What an AI that could improve itself might look like
 * What a generally intelligent AI might look like
+* What is knowledge
+* What are emotions? Why do they exist? What is their purpose? How many are there? How do they affect us? Why do we experience them the way we do (based on their mechanical properties)
+* What are the set of emotions we can experience?
+
+
+### Philosophy
+
+* What is knowledge, how do we measure it (subjectively, objectively)?
+* What are paradigms? Why are paradigm shifts difficult?
+* How do we know things
+* How do we have confidence?
+* Define logic, infer various properties of it
+* Criticize logic
+* Criticize the generalization of our experiences as a grounds for reality (not that it's not useful, but that it's seen as a premise)
+* Refute free will
+* Explain emergence, including consciousness
+* Criticize ethics
+* Praise rigor in epistemology
+* Relationship between epistemology and ontology
+* Theory of abstraction (why, what, how)
+* Is there a set of "universal data structures"? ie with these, you can model anything, and so by understanding them, you are better equipped to assimilate new information.
+
+
+
+Resources that might one day be useful
+--------------------------------------
+
+* DNA structure is a second layer of information, because it affects accessability and thus rate of transcription. http://www.gizmag.com/scientists-confirm-second-layer-dna-information/43762/
