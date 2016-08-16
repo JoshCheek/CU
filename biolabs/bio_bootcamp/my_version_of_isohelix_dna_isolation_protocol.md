@@ -7,14 +7,15 @@ Isohelix DNA Isolation Kit
 Preparation
 -----------
 
-- [x] Preheat the EB (Elution Buffer) buffer at 700C (100μl per sample)
-- [x] Set centrifuge to 13.4K rpm (12,000g), it is the only speed we will use
+- [ ] Set centrifuge to 13.4K rpm (12,000g), it is the only speed we will use
+- [ ] Preheat the EB (Elution Buffer) buffer at 70ºC (if you only have one heat bath,
+      then you can do this step after removing the DNA from the cells)
 
 
 Collect DNA sample
 ------------------
 
-- [x] Swab inside of cheek for thirty seconds
+- [ ] Swab inside of cheek for thirty seconds
 - [ ] Place the swab head into a tube
 
 
@@ -25,7 +26,8 @@ Remove DNA from cells
 - [ ] Vortex to cover the swab head
 - [ ] Add 20μl Proteinase K solution, which digests (eats) contaminating proteins
 - [ ] Mix immediately by vortexing
-- [ ] Incubate at 600°C for 10 to 60 minutes
+- [ ] Incubate at 60°C for 10 to 60 minutes
+- [ ] If you only have one heat bath, then you can now use it to preheat the Elution Buffer to 70ºC
 
 
 Unknown things for unknown reasons
@@ -69,8 +71,8 @@ Rinse the DNA twice and dry it off
   - [ ] Centrifuge for 1 minute, so WB flows through
   - [ ] Discard the flow through
 - [ ] Dry
-  - [ ] Place the column in a clean collection tube (postfilter basin) since the current one is all wet
-  - [ ] Centrifuge 3 minutes, to remove all traces of ethanol (presumably that's the WB?)
+  - [ ] Centrifuge 3 minutes, to remove all traces of ethanol (is that the WB or the ethanol from "unknown things"?)
+- [ ] Place the column in a clean collection tube (postfilter basin) since the current one is all wet
 
 
 Elution: Remove the DNA from the membrane
@@ -80,7 +82,7 @@ In the next step, we "incubate", which is defined as "(especially in a laborator
 
 - [ ] Place the column in a clean 1.5ml microcentrifuge tube
 - [ ] Add 100μl of preheated EB (Elution Buffer) buffer to the center of the membrane
-- [ ] Incubate the column for 3 minutes (are they using "incubate" to mean "heat", or is my DNA at risk of hatching, or is EB a bacteria or something?)
+- [ ] Incubate the column for 3 minutes (are they using "incubate" to mean "heat", or is my DNA at risk of hatching, or is EB a bacteria or something?) (incubate means let it sit)
 - [ ] Centrifuge for 1 minute to elute the DNA
 
 
